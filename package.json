@@ -1,7 +1,7 @@
 {
-  "name": "cucumber2-report",
-  "version": "1.0.0",
-  "description": "Report for Cucumber.js > 2",
+  "name": "cucumber3-report",
+  "version": "1.0.1",
+  "description": "Report for Cucumber.js >= 3",
   "main": "index.js",
   "scripts": {
     "test": "standard"
